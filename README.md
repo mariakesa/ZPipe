@@ -1,6 +1,6 @@
 # ZPipe
 
-Hackable pipeline for registering, masking, detrending, detecting cells, clustering and visualizing activity patterns.
+Hackable pipeline for registering, masking, detrending, detecting cells, clustering and visualizing activity patterns in larval zebrafish whole-brain calcium imaging recordings.
 
 <img src="https://github.com/mariakesa/ZebraFishRegistrationPipeline/blob/master/rastermap.gif" width="500" height="500"/>
 
